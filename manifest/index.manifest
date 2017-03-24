@@ -1,0 +1,8 @@
+CACHE MANIFEST
+CACHE:
+index.js
+index.css
+NETWORK:
+*
+FALLBACK:
+404.html
